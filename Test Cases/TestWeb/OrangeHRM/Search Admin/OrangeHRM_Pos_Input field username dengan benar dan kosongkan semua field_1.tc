@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-kosongkan semua field dan input valid username
+-Klik search</description>
+   <name>OrangeHRM_Pos_Input field username dengan benar dan kosongkan semua field_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>387e0b89-57f3-471c-9fea-0dd85edf1bbd</testCaseGuid>
+</TestCaseEntity>

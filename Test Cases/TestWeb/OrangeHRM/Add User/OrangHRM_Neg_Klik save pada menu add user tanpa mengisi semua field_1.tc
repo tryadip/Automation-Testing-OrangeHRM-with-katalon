@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Klik menu add
+-Klik Save tanpa mengisi field</description>
+   <name>OrangHRM_Neg_Klik save pada menu add user tanpa mengisi semua field_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>397e2a73-45dc-4cae-a74c-9bbaef0f6e3f</testCaseGuid>
+</TestCaseEntity>

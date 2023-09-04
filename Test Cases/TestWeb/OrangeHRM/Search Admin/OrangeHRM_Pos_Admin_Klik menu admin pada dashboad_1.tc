@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-klik menu admin pada dashboard</description>
+   <name>OrangeHRM_Pos_Admin_Klik menu admin pada dashboad_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8db9518a-93cd-4604-894b-7cd75c2710b0</testCaseGuid>
+</TestCaseEntity>

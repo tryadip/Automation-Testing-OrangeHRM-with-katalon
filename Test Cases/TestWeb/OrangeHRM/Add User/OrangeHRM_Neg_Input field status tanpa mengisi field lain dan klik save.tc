@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Klik menu add
+-Input field status
+-Klik save</description>
+   <name>OrangeHRM_Neg_Input field status tanpa mengisi field lain dan klik save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea8e4ab4-9063-445e-9568-de6ca9c626a1</testCaseGuid>
+</TestCaseEntity>

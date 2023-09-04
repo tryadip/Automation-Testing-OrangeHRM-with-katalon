@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+Klik button minimize</description>
+   <name>OrangHRM_Pos_Klik button minimize pada menu search_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9879f3b0-3fdd-472d-a359-2efbd4006298</testCaseGuid>
+</TestCaseEntity>

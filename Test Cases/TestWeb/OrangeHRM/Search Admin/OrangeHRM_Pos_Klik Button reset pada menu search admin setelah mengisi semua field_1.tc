@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Input semua field
+-klik reset pada button reset</description>
+   <name>OrangeHRM_Pos_Klik Button reset pada menu search admin setelah mengisi semua field_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a77b3ea8-0218-434e-9604-926661004262</testCaseGuid>
+</TestCaseEntity>

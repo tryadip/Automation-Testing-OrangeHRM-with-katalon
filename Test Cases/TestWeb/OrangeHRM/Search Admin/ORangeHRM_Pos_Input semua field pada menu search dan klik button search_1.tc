@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-input semua field
+-klik button search</description>
+   <name>ORangeHRM_Pos_Input semua field pada menu search dan klik button search_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>002153b8-b51b-4afa-9c6c-de3982ec11cf</testCaseGuid>
+</TestCaseEntity>

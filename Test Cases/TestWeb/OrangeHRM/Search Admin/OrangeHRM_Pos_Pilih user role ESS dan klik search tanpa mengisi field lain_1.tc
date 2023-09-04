@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-kosongkan semua field dan pilih user role ESS
+-Klik search</description>
+   <name>OrangeHRM_Pos_Pilih user role ESS dan klik search tanpa mengisi field lain_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a157541c-0147-4fed-bb7d-0c8d74082dde</testCaseGuid>
+</TestCaseEntity>

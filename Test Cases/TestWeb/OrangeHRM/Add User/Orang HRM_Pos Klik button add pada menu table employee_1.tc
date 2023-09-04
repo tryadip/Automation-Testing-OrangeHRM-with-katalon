@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Klik menu add</description>
+   <name>Orang HRM_Pos Klik button add pada menu table employee_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6eb8eaf-874a-4ee6-99f7-aedb85c628d9</testCaseGuid>
+</TestCaseEntity>

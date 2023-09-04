@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-kosongkan semua field dan input field employee dengan valid data
+-Klik search</description>
+   <name>OrangeHRM_Pos_Input field employee dengan data valid tanpa mengisi field lain_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1eb55b31-eed2-405f-9971-74605b19ab41</testCaseGuid>
+</TestCaseEntity>

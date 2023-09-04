@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-kosongkan semua field dan pilih user role admin
+-Klik search</description>
+   <name>OrangeHRM_Pos_Pilih user role admin dan klik search tanpa mengisi field lain_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98166fad-9909-4e47-81de-ee356839614c</testCaseGuid>
+</TestCaseEntity>

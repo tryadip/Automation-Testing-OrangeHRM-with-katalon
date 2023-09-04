@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OrangeHRM_Neg_Input field username dengan useername existing_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1e7f379-0fd6-4b60-b9d4-efaad814ddd4</testCaseGuid>
+</TestCaseEntity>

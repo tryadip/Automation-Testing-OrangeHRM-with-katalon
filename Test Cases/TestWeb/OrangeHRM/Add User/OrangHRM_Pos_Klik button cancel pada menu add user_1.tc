@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Klik menu add
+-Klik Cancel</description>
+   <name>OrangHRM_Pos_Klik button cancel pada menu add user_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8763f58e-d4f5-46f9-922a-8e70d5b0c5fe</testCaseGuid>
+</TestCaseEntity>

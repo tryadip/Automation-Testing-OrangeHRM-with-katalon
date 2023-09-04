@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>'-Klik menu admin pada dashboad
+-Klik menu add
+-Input field username
+-Klik save</description>
+   <name>OrangeHRM_Neg_Input field username tanpa mengisi field lain dan klik save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c6b6bb-897f-4341-b7c2-23385c6c0dfb</testCaseGuid>
+</TestCaseEntity>
