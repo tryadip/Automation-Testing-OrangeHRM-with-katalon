@@ -19,4 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TestWeb/OrangeHRM/Search Admin/OrangeHRM_Pos_Admin_Klik menu admin pada dashboad_1'), [:], FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/Admin Search/button_Add'))
+def mybutton = findTestObject('Object Repository/Admin Search/button_Add')
+WebUI.click(mybutton)
+WebUI.delay(2)
